@@ -1,0 +1,17 @@
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+CMakeLists.txt.user
+hello
+add
+helloasm.cbp
+test*
+*.py
+a.in
+a.out
+hello.asm
+run*
+C*
+.*
